@@ -1,0 +1,7 @@
+{
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "apkUrl": "https://gitee.com/ibuprofen-1220/app-update/raw/master/releases/app-release.apk",
+    "changelog": "首次发布",
+    "forceUpdate": false
+}
